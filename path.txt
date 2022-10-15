@@ -1,0 +1,3 @@
+C:\Users\Adarsh\OneDrive
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+%USERPROFILE%\AppData\Local\Temp

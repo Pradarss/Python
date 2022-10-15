@@ -1,0 +1,6 @@
+file=open("binary.txt","w")
+file.write(" ")
+file.close()
+file=open("binary.txt","r")
+file.read()
+file.close()
